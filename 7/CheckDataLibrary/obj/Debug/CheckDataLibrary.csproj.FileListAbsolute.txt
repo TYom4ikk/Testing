@@ -1,0 +1,6 @@
+C:\Users\zhaku\Desktop\Testing-Homework\7\CheckDataLibrary\bin\Debug\CheckDataLibrary.dll
+C:\Users\zhaku\Desktop\Testing-Homework\7\CheckDataLibrary\bin\Debug\CheckDataLibrary.pdb
+C:\Users\zhaku\Desktop\Testing-Homework\7\CheckDataLibrary\obj\Debug\CheckDataLibrary.csproj.AssemblyReference.cache
+C:\Users\zhaku\Desktop\Testing-Homework\7\CheckDataLibrary\obj\Debug\CheckDataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\zhaku\Desktop\Testing-Homework\7\CheckDataLibrary\obj\Debug\CheckDataLibrary.dll
+C:\Users\zhaku\Desktop\Testing-Homework\7\CheckDataLibrary\obj\Debug\CheckDataLibrary.pdb

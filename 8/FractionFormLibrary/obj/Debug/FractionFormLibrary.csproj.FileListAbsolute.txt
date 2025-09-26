@@ -1,0 +1,6 @@
+C:\Users\zhaku\Desktop\Testing-Homework\8\FractionFormLibrary\bin\Debug\FractionFormLibrary.dll
+C:\Users\zhaku\Desktop\Testing-Homework\8\FractionFormLibrary\bin\Debug\FractionFormLibrary.pdb
+C:\Users\zhaku\Desktop\Testing-Homework\8\FractionFormLibrary\obj\Debug\FractionFormLibrary.csproj.AssemblyReference.cache
+C:\Users\zhaku\Desktop\Testing-Homework\8\FractionFormLibrary\obj\Debug\FractionFormLibrary.csproj.CoreCompileInputs.cache
+C:\Users\zhaku\Desktop\Testing-Homework\8\FractionFormLibrary\obj\Debug\FractionFormLibrary.dll
+C:\Users\zhaku\Desktop\Testing-Homework\8\FractionFormLibrary\obj\Debug\FractionFormLibrary.pdb
