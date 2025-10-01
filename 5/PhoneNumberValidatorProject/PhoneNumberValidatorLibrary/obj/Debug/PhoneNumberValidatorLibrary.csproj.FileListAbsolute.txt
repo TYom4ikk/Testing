@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\Testing\5\PhoneNumberValidatorProject\PhoneNumberValidatorLibrary\bin\Debug\PhoneNumberValidatorLibrary.dll
+C:\Users\Admin\Desktop\Testing\5\PhoneNumberValidatorProject\PhoneNumberValidatorLibrary\bin\Debug\PhoneNumberValidatorLibrary.pdb
+C:\Users\Admin\Desktop\Testing\5\PhoneNumberValidatorProject\PhoneNumberValidatorLibrary\obj\Debug\PhoneNumberValidatorLibrary.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Testing\5\PhoneNumberValidatorProject\PhoneNumberValidatorLibrary\obj\Debug\PhoneNumberValidatorLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Testing\5\PhoneNumberValidatorProject\PhoneNumberValidatorLibrary\obj\Debug\PhoneNumberValidatorLibrary.dll
+C:\Users\Admin\Desktop\Testing\5\PhoneNumberValidatorProject\PhoneNumberValidatorLibrary\obj\Debug\PhoneNumberValidatorLibrary.pdb

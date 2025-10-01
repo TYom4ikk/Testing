@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\Testing\4\MinValueLibrary\MinValueLibrary\bin\Debug\MinValueLibrary.dll
+C:\Users\Admin\Desktop\Testing\4\MinValueLibrary\MinValueLibrary\bin\Debug\MinValueLibrary.pdb
+C:\Users\Admin\Desktop\Testing\4\MinValueLibrary\MinValueLibrary\obj\Debug\MinValueLibrary.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Testing\4\MinValueLibrary\MinValueLibrary\obj\Debug\MinValueLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Testing\4\MinValueLibrary\MinValueLibrary\obj\Debug\MinValueLibrary.dll
+C:\Users\Admin\Desktop\Testing\4\MinValueLibrary\MinValueLibrary\obj\Debug\MinValueLibrary.pdb

@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Testing\\5\\PhoneNumberValidatorProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DD1AA6C-2128-4BC4-A829-AAC9AFDB78E7}|PhoneNumberValidatorProject\\PhoneNumberValidatorProject.csproj|c:\\users\\admin\\desktop\\testing\\5\\phonenumbervalidatorproject\\phonenumbervalidatorproject\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DD1AA6C-2128-4BC4-A829-AAC9AFDB78E7}|PhoneNumberValidatorProject\\PhoneNumberValidatorProject.csproj|solutionrelative:phonenumbervalidatorproject\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DD1AA6C-2128-4BC4-A829-AAC9AFDB78E7}|PhoneNumberValidatorProject\\PhoneNumberValidatorProject.csproj|c:\\users\\admin\\desktop\\testing\\5\\phonenumbervalidatorproject\\phonenumbervalidatorproject\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0DD1AA6C-2128-4BC4-A829-AAC9AFDB78E7}|PhoneNumberValidatorProject\\PhoneNumberValidatorProject.csproj|solutionrelative:phonenumbervalidatorproject\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DF59C1-1DB1-45E6-9E86-4EF77075979A}|PhoneNumberValidatorLibrary\\PhoneNumberValidatorLibrary.csproj|c:\\users\\admin\\desktop\\testing\\5\\phonenumbervalidatorproject\\phonenumbervalidatorlibrary\\phonenumbervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DF59C1-1DB1-45E6-9E86-4EF77075979A}|PhoneNumberValidatorLibrary\\PhoneNumberValidatorLibrary.csproj|solutionrelative:phonenumbervalidatorlibrary\\phonenumbervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D150ACDE-10F0-4952-9372-EE3F13FCCDCD}|PhoneNumberValidatorTests\\PhoneNumberValidatorTests.csproj|c:\\users\\admin\\desktop\\testing\\5\\phonenumbervalidatorproject\\phonenumbervalidatortests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D150ACDE-10F0-4952-9372-EE3F13FCCDCD}|PhoneNumberValidatorTests\\PhoneNumberValidatorTests.csproj|solutionrelative:phonenumbervalidatortests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Testing\\5\\PhoneNumberValidatorProject\\PhoneNumberValidatorTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "PhoneNumberValidatorTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Testing\\5\\PhoneNumberValidatorProject\\PhoneNumberValidatorTests\\UnitTest1.cs",
+              "RelativeToolTip": "PhoneNumberValidatorTests\\UnitTest1.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T13:37:23.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PhoneNumberValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Testing\\5\\PhoneNumberValidatorProject\\PhoneNumberValidatorLibrary\\PhoneNumberValidator.cs",
+              "RelativeDocumentMoniker": "PhoneNumberValidatorLibrary\\PhoneNumberValidator.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Testing\\5\\PhoneNumberValidatorProject\\PhoneNumberValidatorLibrary\\PhoneNumberValidator.cs",
+              "RelativeToolTip": "PhoneNumberValidatorLibrary\\PhoneNumberValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T13:35:57.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Testing\\5\\PhoneNumberValidatorProject\\PhoneNumberValidatorProject\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "PhoneNumberValidatorProject\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Testing\\5\\PhoneNumberValidatorProject\\PhoneNumberValidatorProject\\MainWindow.xaml",
+              "RelativeToolTip": "PhoneNumberValidatorProject\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-30T12:59:05.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Testing\\5\\PhoneNumberValidatorProject\\PhoneNumberValidatorProject\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PhoneNumberValidatorProject\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Testing\\5\\PhoneNumberValidatorProject\\PhoneNumberValidatorProject\\MainWindow.xaml.cs",
+              "RelativeToolTip": "PhoneNumberValidatorProject\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T12:59:03.782Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
