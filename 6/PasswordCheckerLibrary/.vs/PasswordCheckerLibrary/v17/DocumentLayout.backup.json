@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Testing\\6\\PasswordCheckerLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D9C2759-D172-45F9-8D80-07418CB4D378}|PasswordCheckerLibrary\\PasswordCheckerLibrary.csproj|c:\\users\\admin\\desktop\\testing\\6\\passwordcheckerlibrary\\passwordcheckerlibrary\\passwordchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D9C2759-D172-45F9-8D80-07418CB4D378}|PasswordCheckerLibrary\\PasswordCheckerLibrary.csproj|solutionrelative:passwordcheckerlibrary\\passwordchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F7A280-9137-4342-A0EC-DEBD746F2CBE}|ValidatePasswordTest\\ValidatePasswordTest.csproj|c:\\users\\admin\\desktop\\testing\\6\\passwordcheckerlibrary\\validatepasswordtest\\passwordcheckertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F7A280-9137-4342-A0EC-DEBD746F2CBE}|ValidatePasswordTest\\ValidatePasswordTest.csproj|solutionrelative:validatepasswordtest\\passwordcheckertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PasswordCheckerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Testing\\6\\PasswordCheckerLibrary\\ValidatePasswordTest\\PasswordCheckerTests.cs",
+              "RelativeDocumentMoniker": "ValidatePasswordTest\\PasswordCheckerTests.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Testing\\6\\PasswordCheckerLibrary\\ValidatePasswordTest\\PasswordCheckerTests.cs",
+              "RelativeToolTip": "ValidatePasswordTest\\PasswordCheckerTests.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAuwGYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T07:10:36.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PasswordChecker.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Testing\\6\\PasswordCheckerLibrary\\PasswordCheckerLibrary\\PasswordChecker.cs",
+              "RelativeDocumentMoniker": "PasswordCheckerLibrary\\PasswordChecker.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Testing\\6\\PasswordCheckerLibrary\\PasswordCheckerLibrary\\PasswordChecker.cs",
+              "RelativeToolTip": "PasswordCheckerLibrary\\PasswordChecker.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T06:51:59.106Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
