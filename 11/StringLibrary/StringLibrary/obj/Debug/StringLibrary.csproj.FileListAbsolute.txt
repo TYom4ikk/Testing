@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\Testing\11\StringLibrary\StringLibrary\bin\Debug\StringLibrary.dll
+C:\Users\Admin\Desktop\Testing\11\StringLibrary\StringLibrary\bin\Debug\StringLibrary.pdb
+C:\Users\Admin\Desktop\Testing\11\StringLibrary\StringLibrary\obj\Debug\StringLibrary.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Testing\11\StringLibrary\StringLibrary\obj\Debug\StringLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Testing\11\StringLibrary\StringLibrary\obj\Debug\StringLibrary.dll
+C:\Users\Admin\Desktop\Testing\11\StringLibrary\StringLibrary\obj\Debug\StringLibrary.pdb

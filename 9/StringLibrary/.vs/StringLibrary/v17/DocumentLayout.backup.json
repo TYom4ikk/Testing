@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Testing\\9\\StringLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15842823-6937-48FF-82D9-9B902C5F3BDB}|StringLibraryTests\\StringLibraryTests.csproj|c:\\users\\admin\\desktop\\testing\\9\\stringlibrary\\stringlibrarytests\\stringchecktests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15842823-6937-48FF-82D9-9B902C5F3BDB}|StringLibraryTests\\StringLibraryTests.csproj|solutionrelative:stringlibrarytests\\stringchecktests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131077A7-00DB-4E45-A1BC-DCD212623BF1}|StringLibrary\\StringLibrary.csproj|c:\\users\\admin\\desktop\\testing\\9\\stringlibrary\\stringlibrary\\stringcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{131077A7-00DB-4E45-A1BC-DCD212623BF1}|StringLibrary\\StringLibrary.csproj|solutionrelative:stringlibrary\\stringcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StringCheckTests.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Testing\\9\\StringLibrary\\StringLibraryTests\\StringCheckTests.cs",
+              "RelativeDocumentMoniker": "StringLibraryTests\\StringCheckTests.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Testing\\9\\StringLibrary\\StringLibraryTests\\StringCheckTests.cs",
+              "RelativeToolTip": "StringLibraryTests\\StringCheckTests.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAmwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T07:42:39.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StringCheck.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Testing\\9\\StringLibrary\\StringLibrary\\StringCheck.cs",
+              "RelativeDocumentMoniker": "StringLibrary\\StringCheck.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Testing\\9\\StringLibrary\\StringLibrary\\StringCheck.cs",
+              "RelativeToolTip": "StringLibrary\\StringCheck.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T07:39:16.471Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Testing\9\PolyAlphabetCipher\PolyAlphabetCipher\bin\Debug\PolyAlphabetCipher.exe.config
+C:\Users\Admin\Desktop\Testing\9\PolyAlphabetCipher\PolyAlphabetCipher\bin\Debug\PolyAlphabetCipher.exe
+C:\Users\Admin\Desktop\Testing\9\PolyAlphabetCipher\PolyAlphabetCipher\bin\Debug\PolyAlphabetCipher.pdb
+C:\Users\Admin\Desktop\Testing\9\PolyAlphabetCipher\PolyAlphabetCipher\obj\Debug\PolyAlphabetCipher.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Testing\9\PolyAlphabetCipher\PolyAlphabetCipher\obj\Debug\PolyAlphabetCipher.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Testing\9\PolyAlphabetCipher\PolyAlphabetCipher\obj\Debug\PolyAlphabetCipher.exe
+C:\Users\Admin\Desktop\Testing\9\PolyAlphabetCipher\PolyAlphabetCipher\obj\Debug\PolyAlphabetCipher.pdb
