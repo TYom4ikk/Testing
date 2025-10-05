@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\Testing\17\SnilsValidatorLibrary\SnilsValidatorLibrary\bin\Debug\SnilsValidatorLibrary.dll
+C:\Users\Admin\Desktop\Testing\17\SnilsValidatorLibrary\SnilsValidatorLibrary\bin\Debug\SnilsValidatorLibrary.pdb
+C:\Users\Admin\Desktop\Testing\17\SnilsValidatorLibrary\SnilsValidatorLibrary\obj\Debug\SnilsValidatorLibrary.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Testing\17\SnilsValidatorLibrary\SnilsValidatorLibrary\obj\Debug\SnilsValidatorLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Testing\17\SnilsValidatorLibrary\SnilsValidatorLibrary\obj\Debug\SnilsValidatorLibrary.dll
+C:\Users\Admin\Desktop\Testing\17\SnilsValidatorLibrary\SnilsValidatorLibrary\obj\Debug\SnilsValidatorLibrary.pdb

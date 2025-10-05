@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\Testing\16\FindNonUniqueWordsLibrary\FindNonUniqueWordsLibrary\bin\Debug\FindNonUniqueWordsLibrary.dll
+C:\Users\Admin\Desktop\Testing\16\FindNonUniqueWordsLibrary\FindNonUniqueWordsLibrary\bin\Debug\FindNonUniqueWordsLibrary.pdb
+C:\Users\Admin\Desktop\Testing\16\FindNonUniqueWordsLibrary\FindNonUniqueWordsLibrary\obj\Debug\FindNonUniqueWordsLibrary.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Testing\16\FindNonUniqueWordsLibrary\FindNonUniqueWordsLibrary\obj\Debug\FindNonUniqueWordsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Testing\16\FindNonUniqueWordsLibrary\FindNonUniqueWordsLibrary\obj\Debug\FindNonUniqueWordsLibrary.dll
+C:\Users\Admin\Desktop\Testing\16\FindNonUniqueWordsLibrary\FindNonUniqueWordsLibrary\obj\Debug\FindNonUniqueWordsLibrary.pdb

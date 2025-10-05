@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindNonUniqueWordsLibrary", "FindNonUniqueWordsLibrary\FindNonUniqueWordsLibrary.csproj", "{88B16C5D-F5CB-48F3-8E83-AD0F7D6E10AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindNonUniqueWordsTest", "FindNonUniqueWordsTest\FindNonUniqueWordsTest.csproj", "{6C6495F5-2404-46DA-8EBF-793F95C8D56D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88B16C5D-F5CB-48F3-8E83-AD0F7D6E10AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88B16C5D-F5CB-48F3-8E83-AD0F7D6E10AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88B16C5D-F5CB-48F3-8E83-AD0F7D6E10AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88B16C5D-F5CB-48F3-8E83-AD0F7D6E10AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C6495F5-2404-46DA-8EBF-793F95C8D56D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C6495F5-2404-46DA-8EBF-793F95C8D56D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C6495F5-2404-46DA-8EBF-793F95C8D56D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C6495F5-2404-46DA-8EBF-793F95C8D56D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {700459AC-14C8-45C9-8368-4C96045EB3AD}
+	EndGlobalSection
+EndGlobal

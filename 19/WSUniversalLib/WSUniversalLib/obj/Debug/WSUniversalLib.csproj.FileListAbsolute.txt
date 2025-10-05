@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\Testing\19\WSUniversalLib\WSUniversalLib\bin\Debug\WSUniversalLib.dll
+C:\Users\Admin\Desktop\Testing\19\WSUniversalLib\WSUniversalLib\bin\Debug\WSUniversalLib.pdb
+C:\Users\Admin\Desktop\Testing\19\WSUniversalLib\WSUniversalLib\obj\Debug\WSUniversalLib.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Testing\19\WSUniversalLib\WSUniversalLib\obj\Debug\WSUniversalLib.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Testing\19\WSUniversalLib\WSUniversalLib\obj\Debug\WSUniversalLib.dll
+C:\Users\Admin\Desktop\Testing\19\WSUniversalLib\WSUniversalLib\obj\Debug\WSUniversalLib.pdb

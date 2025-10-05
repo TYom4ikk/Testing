@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Testing\\17\\SnilsValidatorLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEFA967-8346-48C8-98D8-5B339942BDFB}|SnilsValidatorLibrary\\SnilsValidatorLibrary.csproj|c:\\users\\admin\\desktop\\testing\\17\\snilsvalidatorlibrary\\snilsvalidatorlibrary\\snilsvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CEFA967-8346-48C8-98D8-5B339942BDFB}|SnilsValidatorLibrary\\SnilsValidatorLibrary.csproj|solutionrelative:snilsvalidatorlibrary\\snilsvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7335067-1893-458E-AF49-D61E574AA56F}|StringLibraryTests\\StringLibraryTests.csproj|c:\\users\\admin\\desktop\\testing\\17\\snilsvalidatorlibrary\\stringlibrarytests\\snilsvalidatorunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7335067-1893-458E-AF49-D61E574AA56F}|StringLibraryTests\\StringLibraryTests.csproj|solutionrelative:stringlibrarytests\\snilsvalidatorunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SnilsValidatorUnitTest.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Testing\\17\\SnilsValidatorLibrary\\StringLibraryTests\\SnilsValidatorUnitTest.cs",
+              "RelativeDocumentMoniker": "StringLibraryTests\\SnilsValidatorUnitTest.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Testing\\17\\SnilsValidatorLibrary\\StringLibraryTests\\SnilsValidatorUnitTest.cs",
+              "RelativeToolTip": "StringLibraryTests\\SnilsValidatorUnitTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T21:32:51.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SnilsValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Testing\\17\\SnilsValidatorLibrary\\SnilsValidatorLibrary\\SnilsValidator.cs",
+              "RelativeDocumentMoniker": "SnilsValidatorLibrary\\SnilsValidator.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Testing\\17\\SnilsValidatorLibrary\\SnilsValidatorLibrary\\SnilsValidator.cs",
+              "RelativeToolTip": "SnilsValidatorLibrary\\SnilsValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T21:31:59.021Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
